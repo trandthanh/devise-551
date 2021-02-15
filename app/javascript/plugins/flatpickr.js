@@ -1,0 +1,5 @@
+const flatPickr = () => {
+
+}
+
+export { flatPickr };
